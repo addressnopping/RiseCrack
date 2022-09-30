@@ -7,6 +7,10 @@ On the original YT video(https://www.youtube.com/watch?v=Qd8Ds4PCtrI), the crack
 
 The crack is kinda buggy, but it still works very well.
 # How to use:
-1: Drag the "RiseCrack" folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft\versions
-2: Drop the libraries folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft
-3: Have fun!
+1: Download the crack at https://github.com/PeterPePem/RiseCrack/releases
+
+2: Drag the "RiseCrack" folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft\versions
+
+3: Drop the libraries folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft
+
+4: Have fun!
