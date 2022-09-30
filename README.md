@@ -3,9 +3,9 @@ I found this Rise 5.90 crack on Youtube, I checked it and it doesn't have any ty
 
 It's also not obfuscated, so you can check for yourself if you want to :D
 
-On the original YT video, the crack had a bunch of missing libs that couldn't be downloaded automatcally, so I manually downloaded them so you can use the crack.
+On the original YT video(https://www.youtube.com/watch?v=Qd8Ds4PCtrI), the crack had a bunch of missing libs that couldn't be downloaded automatcally, but I manually downloaded them so you can use the crack.
 
-
+The crack is kinda buggy, but it still works very well.
 # How to use:
 1: Drag the "RiseCrack" folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft\versions
 2: Drop the libraries folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft
