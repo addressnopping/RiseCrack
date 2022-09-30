@@ -6,6 +6,8 @@ It's also not obfuscated, so you can check for yourself if you want to :D
 On the original YT video(https://www.youtube.com/watch?v=Qd8Ds4PCtrI), the crack had a bunch of missing libs that couldn't be downloaded automatcally, but I manually downloaded them so you can use the crack.
 
 The crack is kinda buggy, but it still works very well.
+
+(src maybe coming soon :flushed:)
 # How to use:
 1: Download the crack at https://github.com/PeterPePem/RiseCrack/releases
 
