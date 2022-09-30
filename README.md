@@ -9,7 +9,7 @@ The crack is kinda buggy, but it still works very well.
 
 (src maybe coming soon :flushed:)
 # How to use:
-1: Download the crack at https://github.com/PeterPePem/RiseCrack/releases
+1: Download the crack at https://github.com/PeterPePem/RiseCrack/releases and extract the "daThing.rar"
 
 2: Drag the "RiseCrack" folder to C:\Users\(YourUser)\AppData\Roaming\.minecraft\versions
 
